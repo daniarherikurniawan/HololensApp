@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHoloApps", "NewHoloApps.csproj", "{76769029-E7E5-4015-B770-E832D81D6EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHoloApps.Editor", "NewHoloApps.Editor.csproj", "{2BF20CF7-ED0E-F511-9DF4-70C69BB2B903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76769029-E7E5-4015-B770-E832D81D6EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76769029-E7E5-4015-B770-E832D81D6EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76769029-E7E5-4015-B770-E832D81D6EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76769029-E7E5-4015-B770-E832D81D6EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF20CF7-ED0E-F511-9DF4-70C69BB2B903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF20CF7-ED0E-F511-9DF4-70C69BB2B903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF20CF7-ED0E-F511-9DF4-70C69BB2B903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF20CF7-ED0E-F511-9DF4-70C69BB2B903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
